@@ -7,9 +7,6 @@ config.ts
 
 # Generated output
 output/
-*.png
-*.jpg
-*.jpeg
 
 # Deno cache
 .deno_dir/

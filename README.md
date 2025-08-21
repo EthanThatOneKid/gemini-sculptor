@@ -3,6 +3,18 @@
 A Deno-based Text-to-Clay agent using Google's Generative AI SDK (Gemini Imagen)
 to generate stylized 3D cartoon props with playful clay-like textures.
 
+## 🎨 Showcase
+
+See what Gemini Sculptor can create! Here are some example generations:
+
+<div align="center">
+
+![Cute Cat](examples/cute-cat.png) ![Cute Robot](examples/cute-robot.png) ![Cute Dragon](examples/cute-dragon.png)
+
+*Stylized 3D clay-like cartoon props generated with Imagen 4.0*
+
+</div>
+
 ## Features
 
 - **Text-to-Image Generation**: Create clay-like 3D cartoon props from text
