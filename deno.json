@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@google/genai": "npm:@google/genai@^0.2.0",
+    "@std/async": "jsr:@std/async@^1.0.14",
+    "@std/cli": "jsr:@std/cli@^1.0.21"
+  },
+  "tasks": {
+    "start": "deno run --env --allow-env --allow-net --allow-read --allow-write main.ts",
+    "interactive": "deno run --env --allow-env --allow-net --allow-read --allow-write main.ts --interactive",
+    "test": "deno run --env --allow-env --allow-net --allow-read --allow-write test.ts"
+  }
+}
